@@ -1,7 +1,7 @@
 # 👋 Hello there! I'm Hemangi Wagh
 
 🎯 **Aspiring Software Developer** from 🇮🇳 India  
-📘 A life-long learner, currently diving into the world of **Java**  
+📘 A life-long learner, currently diving into the world of **C#**  
 💡 Believe in writing clean code and building meaningful applications  
 💬 Ask me about **Java** and **SQL**  
 📫 Reach me at: [hemangidwagh2901@gmail.com](mailto:hemangidwagh2901@gmail.com)  
