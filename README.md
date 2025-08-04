@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemangi2901&label=Profile%20views&color=0e75b6&style=flat" alt="hemangi2901" /> </p>
 
-- 🔭 I’m currently Studying **MCA(Engineering)**
+- 🔭 I’m  **MCA(Engineering)**
 
 - 🌱 I’m currently learning **Java**
 
